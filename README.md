@@ -13,12 +13,12 @@
 
 ## Key Features
 
-* Allows sellers to post something they want to sell.
-* Allows buyers to view items on sale (along with the location) and to send a request to the buyer. 
-* Provides user with a pannel to view itenms posted by him along with the items they have shown interest in.
-* Allows users to post the picture and details of items disposed on the roadside and the application captures the location.
+* Allows sellers to post items.
+* Allows buyers to view items on sale (along with the location) and to send a buy request to the seller. 
+* Provides users with a personalized panel to view items posted by them along with the items they have shown interest in.
+* Allows users to post the picture and details of items disposed roadside (application captures the location of upload).
 * Provides a list of roadside items on the curb with the location on the map.
-* Protects Seller's privacy by posting a notification with the details of the prospective buyer.
+* Protects seller's privacy by posting a notification with the details of the prospective buyer.
 
 
 ## Screenshots of Site
