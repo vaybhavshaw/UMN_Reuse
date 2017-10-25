@@ -1,7 +1,3 @@
-# Module 2 Group Assignment: Generation Station
-
-CSCI 5117, Fall 2017, [assignment description](https://docs.google.com/document/d/1Z_NWRqz4M6dhsfzU2l9alMWpy0PK0xj38uP8qPEZvdY/edit?usp=sharing)
-
 ## App Info:
 
 * Team Name: val=n
@@ -10,23 +6,22 @@ CSCI 5117, Fall 2017, [assignment description](https://docs.google.com/document/
 
 ### Students
 
+* Vaybhav Shaw, shaw0162@umn.edu
 * Lakshya Goel, goel0072@umn.edu
 * Nishka Monteiro, monte299@umn.edu
 * Akifumi Nakamachi, nakam052@umn.edu
-* Vaybhav Shaw, shaw0162@umn.edu
-
 
 ## Key Features
 
-* Allows user to post something they want to sell.
-* Provides a list of items on the curb with the location on the map.
+* Allows sellers to post something they want to sell.
+* Allows buyers to view items on sale (along with the location) and to send a request to the buyer. 
+* Provides user with a pannel to view itenms posted by him along with the items they have shown interest in.
+* Allows users to post the picture and details of items disposed on the roadside and the application captures the location.
+* Provides a list of roadside items on the curb with the location on the map.
 * Protects Seller's privacy by posting a notification with the details of the prospective buyer.
 
 
 ## Screenshots of Site
-
-**[Add a screenshot of each key page (maximum 4)](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository)
-along with a very brief caption:**
 
 Top page(show all selling item posted by user)
 ![top](./screenshots/top.jpg)
